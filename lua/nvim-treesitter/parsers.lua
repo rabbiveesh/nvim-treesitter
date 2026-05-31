@@ -1631,7 +1631,7 @@ return {
   pod = {
     install_info = {
       generate = true,
-      revision = '57c606aa3373ba876d44113d13fe7bdc2c060723',
+      revision = 'ffbd7f3b7b68edaaa0532898953c627355cb1a1a',
       url = 'https://github.com/tree-sitter-perl/tree-sitter-pod',
     },
     maintainers = { '@RabbiVeesh', '@LeoNerd' },
